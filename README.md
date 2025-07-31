@@ -28,30 +28,14 @@
 ## 🌐 Connect with me
 
 <p align="center">
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/your-facebook-id" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40" height="40" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram-id" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
-  </a>
-  <a href="https://www.codechef.com/users/code_hunter_50" target="_blank">
-    <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/5c3c4f8c6ac2c.png" width="40" height="40" alt="CodeChef"/>
-  </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-id" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" height="40" alt="GeeksforGeeks"/>
-  </a>
+<a href="www.linkedin.com/in/vamsi-pragada-9105a4338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamsipragada" height="40" width="40" /></a>
+<a href="https://www.instagram.com/vamsi_pragada_?igsh=OHM0bDF0b213M2Qy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamsipragada" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/code_hunter_50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vamsipragada" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vamsipragada1750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gnanaprakashpra1" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/Vamsi1750/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamsipragada" height="40" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/vamsipragn4pn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vamsipragada" height="40" width="40" /></a>
 </p>
+
 
 
 ---
