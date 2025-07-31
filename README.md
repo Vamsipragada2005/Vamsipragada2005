@@ -29,35 +29,30 @@
 
 <p align="center">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/your-facebook-id" target="_blank" title="Facebook">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" height="40" alt="Facebook" />
+  <a href="https://www.facebook.com/your-facebook-id" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40" height="40" alt="Facebook"/>
   </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/your-instagram-id" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram" />
+  <a href="https://www.instagram.com/your-instagram-id" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/code_hunter_50" target="_blank" title="CodeChef">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" width="40" height="40" alt="CodeChef" />
+  <a href="https://www.codechef.com/users/code_hunter_50" target="_blank">
+    <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/5c3c4f8c6ac2c.png" width="40" height="40" alt="CodeChef"/>
   </a>
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank" title="HackerRank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40" alt="HackerRank" />
+  <a href="https://www.hackerrank.com/your-hackerrank-id" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank"/>
   </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank" title="LeetCode">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" />
+  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
   </a>
-  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank" title="GeeksforGeeks">
-    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks" />
+  <a href="https://auth.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" height="40" alt="GeeksforGeeks"/>
   </a>
 </p>
+
 
 ---
 
