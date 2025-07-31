@@ -25,30 +25,29 @@
   - Tools & Platforms: `Git`, `Github`, `VS Code`
 
 ---
+## 🌐 Connect with me
 
-## 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
+  <a href="https://www.facebook.com/your-facebook-id" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" height="40" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/your-profile" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  <a href="https://www.instagram.com/your-instagram-id" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram" />
   </a>
   <a href="https://www.codechef.com/users/code_hunter_50" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" width="40" height="40" alt="CodeChef" />
   </a>
-  <a href="https://www.hackerrank.com/profile/vamsipragada1750" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" width="40" height="40"/>
+  <a href="https://auth.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks" />
   </a>
 </p>
 
