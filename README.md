@@ -28,7 +28,7 @@
 ## 🌐 Connect with me
 
 <p align="center">
-<a href="www.linkedin.com/in/vamsi-pragada1750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamsipragada" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/vamsipragada1750" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamsipragada" height="40" width="40" /></a>
 <a href="https://www.instagram.com/vamsi_pragada_?igsh=OHM0bDF0b213M2Qy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamsipragada" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/code_hunter_50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vamsipragada" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/vamsipragada1750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gnanaprakashpra1" height="40" width="40" /></a>
