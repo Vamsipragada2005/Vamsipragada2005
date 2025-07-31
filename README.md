@@ -27,8 +27,6 @@
 ---
 ## 🌐 Connect with me
 
-## 🌐 Connect with me
-
 <p align="center">
 
   <!-- LinkedIn -->
@@ -60,7 +58,6 @@
     <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks" />
   </a>
 </p>
-
 
 ---
 
