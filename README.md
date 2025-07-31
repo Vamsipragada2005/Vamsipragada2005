@@ -14,6 +14,33 @@
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.instagram.com/your-instagram/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new--v1.png" width="40" height="40"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/code_hunter_50" target="_blank">
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" width="40" height="40"/>
+  </a>
+
+</p>
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -36,35 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-
-  <a href="www.linkedin.com/in/vamsi-pragada-9105a4338" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="https://www.codechef.com/users/code_hunter_50" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-
-</p>
-
----
 
 > _"Building my dreams one line of code at a time..."_
 
