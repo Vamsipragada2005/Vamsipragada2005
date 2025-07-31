@@ -28,23 +28,30 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new--v1.png" width="40" height="40"/>
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40"/>
+  <a href="https://www.instagram.com/your-profile" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.codechef.com/users/code_hunter_50" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" width="40" height="40"/>
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/vamsipragada1750" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
