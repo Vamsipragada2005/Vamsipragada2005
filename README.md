@@ -27,26 +27,36 @@
 ---
 ## 🌐 Connect with me
 
+## 🌐 Connect with me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vamsi-pragada-9105a4338/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-id" target="_blank">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/your-facebook-id" target="_blank" title="Facebook">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" height="40" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-id" target="_blank">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/your-instagram-id" target="_blank" title="Instagram">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram" />
   </a>
-  <a href="https://www.codechef.com/users/code_hunter_50" target="_blank">
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/code_hunter_50" target="_blank" title="CodeChef">
     <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" width="40" height="40" alt="CodeChef" />
   </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank" title="HackerRank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Vamsi1750/" target="_blank" title="LeetCode">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank">
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/vamsipragn4pn/" target="_blank" title="GeeksforGeeks">
     <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks" />
   </a>
 </p>
